@@ -1,6 +1,6 @@
 <h1>gbXMLReadWrite</h1>
 
-An open source project in C# that properly creates gbXML as per XSD 5.11.
+An open-source C# project that creates valid gbXML per XSD version 5.11
 <br><Br>
 Created by Chien Si Harriman for Carmel Software Corporation on behalf of gbXML.org. Funding provided by Pacific Northwest National Labs. Thanks to Krishnan Gowri and Amir Roth for their support.
 <br><Br>
