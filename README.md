@@ -1,5 +1,3 @@
-# gbXMLReadWriteSDK_CSharp
-
 <h1>gbXMLReadWrite</h1>
 
 An open source project in C# that properly creates gbXML as per XSD 5.11.
